@@ -14,8 +14,8 @@ parameters:
   name: NAME
   required: true
   value: netbox-base
-- displayName: Git Remote
-  name: GIT_REMOTE
+- displayName: Git Repository
+  name: GIT_REPO
   required: true
   value: https://github.com/leoluk/openshift-netbox
 - displayName: Git Reference
